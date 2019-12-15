@@ -1,3 +1,12 @@
+## Running the program 
+
+Download or clone the repository and navigate to the directory you saved it in.
+
+From the command line, run `node index.js` to execute against the given input.txt file.
+
+Optionally, pass a parameter for a different path to an input file to run the program against that file e.g. `node index.js pathToFile.txt`
+
+
 ## Introduction
 
 You will write a program that navigates a imaginary robotic hoover (much like a [Roomba](https://en.wikipedia.org/wiki/Roomba)) through an equally imaginary room based on:
